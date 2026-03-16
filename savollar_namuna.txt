@@ -1,0 +1,24 @@
+Savol: Piyodalar qaysi hollarda yo'lning qatnov qismida harakatlanishi ruxsat etiladi?
+A: Xohlagan joyda
+B: Piyodalar yo'lkasi yoki trotuar bo'lmaganda yoxud ulardan yurishning imkoni bo'lmaganda chekka qismdan qatnovga qarshi
+C: Faqatgina tunda
+D: Asosiy yo'llarda harakatlanish har doim ruxsat etilgan
+Javob: B
+Izoh: Agar trotuarlar bo'lmasa piyodalar qatnov qismining chekkasidan yoki velosiped yo'lkasidan, transport vositalariining harakatiga qarshi yo'nalishda yurishlari mumkin.
+---
+Savol: Chorrahaga yaqinlashganda svetoforning qizil chirog'i yonib turgan bo'lsa va yana bitta qizil o'ngga ruxsat etuvchi (strelyka) seksiyasi yonib turgan bo'lsa, qanday yo'l tutiladi?
+A: To'g'riga harakatlanish mumkin
+B: Barcha yo'nalishga ruxsat
+C: Faqat o'ngga burilish ruxsat etiladi, lekin asosiy yashil chiroqdagi avtomobillarga yo'l bergan holda
+D: Kutish shart
+Javob: C
+Izoh: Qo'shimcha seksiyaning qizil chiroq bilan birga yonishi harakatga cheklovlar bilan (boshqa oqimdagi avtomobillarga yo'l bergan holda) ruxsat etadi.
+---
+Savol: Bolalar guruhini tashuvchi avtobus to'xtaganda boshqa haydovchilar nimaga diqqat qilishlari kerak?
+A: Tezlikni pasaytirib, zarurat bo'lganda to'xtashga tayyor bo'lishi kerak
+B: Tovushli ishora chalib o'tib ketish
+C: O'tib ketish qat'iyan man etiladi
+D: Avtobus bilan parallel to'xtash
+Javob: A
+Izoh: Bolalar avtobusdan tushib kutilmaganda yo'lga yugurib chiqishi mumkin. SHuning uchun haydovchi ehtiyotkor bo'lib tezlikni kamaytirishi zarur.
+---

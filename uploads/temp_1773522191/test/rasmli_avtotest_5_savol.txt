@@ -1,0 +1,44 @@
+Rasm: rasm1.jpg
+Savol: Ushbu belgining ma'nosi nima?
+A: To'xtash taqiqlanadi
+B: Kirish taqiqlanadi
+C: Harakat taqiqlanadi
+D: Faqat o'ngga harakat
+Javob: B
+Izoh: "Kirish taqiqlanadi" belgisi transport vositalarining ushbu yo'lga kirishini taqiqlaydi.
+
+Rasm: rasm2.jpg
+Savol: Rasmda ko'rsatilgan chorrahada qaysi transport vositasi birinchi o'tadi?
+A: O'ng tomondagi avtomobil
+B: Chap tomondagi avtomobil
+C: To'g'ri harakatlanayotgan avtomobil
+D: Belgiga qarab aniqlanadi
+Javob: A
+Izoh: O'ng tomondan kelayotgan transport vositasi ustunlikka ega bo'ladi.
+
+Rasm: rasm3.jpg
+Savol: Ushbu yo'l belgisi nimani bildiradi?
+A: Piyodalar o'tish joyi
+B: Velosiped yo'lagi
+C: Bolalar o'tishi mumkin
+D: Temir yo'l kesishmasi
+Javob: A
+Izoh: Ushbu belgi yaqin joyda piyodalar o'tish joyi borligini bildiradi.
+
+Rasm: rasm4.jpg
+Savol: Rasmda ko'rsatilgan vaziyatda haydovchi nima qilishi kerak?
+A: Tezlikni oshirishi kerak
+B: Signal berishi kerak
+C: Tezlikni kamaytirishi kerak
+D: To'xtashi shart
+Javob: C
+Izoh: Xavfli vaziyatlarda haydovchi tezlikni kamaytirib ehtiyotkorlik bilan harakat qilishi kerak.
+
+Rasm: rasm5.jpg
+Savol: Ushbu chiziq turi nimani bildiradi?
+A: Quvib o'tish mumkin emas
+B: Quvib o'tish mumkin
+C: To'xtash taqiqlanadi
+D: Faqat avtobuslar harakatlanadi
+Javob: A
+Izoh: Uzluksiz chiziq quvib o'tishni taqiqlaydi.
